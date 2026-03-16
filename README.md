@@ -70,7 +70,7 @@
 <h2 align="center">Contato</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yan-luiz" target="_blank">
+  <a href="https://www.linkedin.com/in/yan-luiz-7b0499342/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
   &nbsp;&nbsp;
