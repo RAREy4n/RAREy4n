@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> • 
-  [X]º período • 
+  5º período • 
   Desenvolvedor & Especialista em Automação
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="justify">
   Sou estudante de <strong>Ciência da Computação</strong>, atualmente no 
-  <strong>[X]º período</strong>. 
+  <strong>5º período</strong>. 
   Foco meus estudos e projetos em <strong>automação de fluxos</strong> e 
   <strong>virtualização</strong>, buscando sempre otimizar processos e 
   garantir ambientes de desenvolvimento escaláveis e isolados.
