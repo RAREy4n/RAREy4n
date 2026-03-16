@@ -1,45 +1,75 @@
-# 👋 Salve, eu sou o Yan! (RAREy4n)
+<h1 align="center">YAN LUIZ</h1>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=O%20sucesso%20é%20a%20soma%20de%20pequenos%20esforços%20repetidos%20dia%20após%20dia.&author=Robert%20Collier" alt="Frase do dia">
-</p>
-
-### 👨‍💻 Sobre mim
-- 🚀 Atualmente focado em aprender **[Sua Stack, ex: Full Stack / Mobile / Game Dev]**
-- 🎓 Estudando na **Faculdade GR**
-- ⚡ Curiosidade: "Git não é mais um bicho de sete cabeças pra mim! 😎"
-
----
-
-### 🛠️ Minha Stack / Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  Estudante de <strong>Ciência da Computação</strong> • 
+  [X]º período • 
+  Desenvolvedor & Especialista em Automação
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+<h2 align="center">Sobre mim</h2>
+
+<p align="justify">
+  Sou estudante de <strong>Ciência da Computação</strong>, atualmente no 
+  <strong>[X]º período</strong>. 
+  Foco meus estudos e projetos em <strong>automação de fluxos</strong> e 
+  <strong>virtualização</strong>, buscando sempre otimizar processos e 
+  garantir ambientes de desenvolvimento escaláveis e isolados.
+</p>
+
+<p align="justify">
+  Tenho experiência na criação de workflows inteligentes e na 
+  containerização de aplicações, visando a eficiência operacional e a 
+  entrega contínua de software de qualidade.
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAREy4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAREy4n&layout=compact&langs_count=7&theme=dracula" />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[SEU_USER_DO_GITHUB]&theme=transparent" 
+  />
 </p>
 
 ---
 
-### 📫 Como me encontrar
-<p align="left">
-  <a href="https://linkedin.com/in/SEU_USER_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<h2 align="center">Tecnologias</h2>
+
+<h3 align="center">Automação & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n,docker,linux,bash" />
+</p>
+
+<h3 align="center">Banco de Dados</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+</p>
+
+---
+
+<h2 align="center">Conceitos e Práticas</h2>
+
+<p align="center">
+  ✔️ Automação de Workflows (n8n)<br/>
+  ✔️ Containerização e Orquestração (Docker)<br/>
+  ✔️ Administração de sistemas Linux<br/>
+  ✔️ Integração de APIs e Webhooks<br/>
+  ✔️ Versionamento com Git
+</p>
+
+---
+
+<h2 align="center">Contato</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/[SEU_LINKEDIN]" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:[SEU_EMAIL]">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
 </p>
