@@ -38,10 +38,9 @@
 
 <h2 align="center">Tecnologias</h2>
 
-
 <h3 align="center">Automação & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=n8n,docker" />
+  <img src="https://skillicons.dev/icons?i=n8n,docker,linux" />
 </p>
 
 <h3 align="center">Banco de Dados</h3>
@@ -49,9 +48,9 @@
   <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
 </p>
 
-<h3 align="center">Linguagens de programação</h3>
+<h3 align="center">Linguagens de Programação</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript, java, c" />
+  <img src="https://skillicons.dev/icons?i=js,java,c" />
 </p>
 
 ---
@@ -71,11 +70,11 @@
 <h2 align="center">Contato</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[SEU_LINKEDIN]" target="_blank">
+  <a href="https://linkedin.com/in/yan-luiz" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:[SEU_EMAIL]">
+  <a href="mailto:yanluiz426@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
 </p>
