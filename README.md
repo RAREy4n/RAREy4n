@@ -1,0 +1,46 @@
+# Projeto Yan
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/RAREy4n/Yan?style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/languages/top/RAREy4n/Yan?style=for-the-badge" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/RAREy4n/Yan?style=for-the-badge" alt="Last Commit">
+</p>
+
+> Uma breve descrição do que esse projeto faz. Algo direto ao ponto, tipo: "Sistema de gerenciamento X feito para resolver o problema Y".
+
+---
+
+## 🛠 Tecnologias
+
+As principais ferramentas que utilizei nesse projeto:
+
+* **Linguagem:** [Sua Linguagem Aqui, ex: JavaScript/Python]
+* **Frameworks:** [Ex: React, Express, etc]
+* **Banco de Dados:** [Ex: MongoDB, PostgreSQL]
+* **Outros:** [Ex: Docker, Git, etc]
+
+---
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você tem instalado:
+* [Node.js / Python / Java] (Versão recomendada)
+* Gerenciador de pacotes (NPM, Yarn, Pip)
+* O Git (que agora está funcionando! 😎)
+
+---
+
+## 🚀 Como executar o projeto
+
+```bash
+# 1. Clone o repositório
+git clone [https://github.com/RAREy4n/Yan.git](https://github.com/RAREy4n/Yan.git)
+
+# 2. Entre na pasta
+cd Yan
+
+# 3. Instale as dependências
+npm install # ou o comando da sua linguagem
+
+# 4. Rode a aplicação
+npm start
