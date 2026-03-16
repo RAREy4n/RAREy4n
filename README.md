@@ -30,7 +30,7 @@
 
 <p align="center">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[SEU_USER_DO_GITHUB]&theme=transparent" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAREy4n&theme=transparent" 
   />
 </p>
 
@@ -38,14 +38,20 @@
 
 <h2 align="center">Tecnologias</h2>
 
+
 <h3 align="center">Automação & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=n8n,docker,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=n8n,docker" />
 </p>
 
 <h3 align="center">Banco de Dados</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+</p>
+
+<h3 align="center">Linguagens de programação</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript, java, c" />
 </p>
 
 ---
