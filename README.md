@@ -60,7 +60,6 @@
 <p align="center">
   ✔️ Automação de Workflows (n8n)<br/>
   ✔️ Containerização e Orquestração (Docker)<br/>
-  ✔️ Administração de sistemas Linux<br/>
   ✔️ Integração de APIs e Webhooks<br/>
   ✔️ Versionamento com Git
 </p>
