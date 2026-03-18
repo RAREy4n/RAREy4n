@@ -3,7 +3,7 @@
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> • 
   5º período • 
-  Desenvolvedor & Especialista em Automação
+  Estagiario em Desenvolvimento e automoção de processos
 </p>
 
 ---
@@ -19,7 +19,7 @@
 </p>
 
 <p align="justify">
-  Tenho experiência na criação de workflows inteligentes e na 
+  Tenho experiência media na criação de workflows inteligentes e na 
   containerização de aplicações, visando a eficiência operacional e a 
   entrega contínua de software de qualidade.
 </p>
