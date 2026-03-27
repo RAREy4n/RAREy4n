@@ -1,79 +1,57 @@
-<h1 align="center">YAN LUIZ</h1>
-
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong> • 
-  5º período • 
-  Estagiario em Desenvolvimento e automoção de processos
+  <img src="imagens/image2.jpg" alt="Header" width="100%">
 </p>
-
----
-
-<h2 align="center">Sobre mim</h2>
-
-<p align="justify">
-  Sou estudante de <strong>Ciência da Computação</strong>, atualmente no 
-  <strong>5º período</strong>. 
-  Foco meus estudos e projetos em <strong>automação de fluxos</strong> e 
-  <strong>virtualização</strong>, buscando sempre otimizar processos e 
-  garantir ambientes de desenvolvimento escaláveis e isolados.
-</p>
-
-<p align="justify">
-  Tenho experiência media na criação de workflows inteligentes e na 
-  containerização de aplicações, visando a eficiência operacional e a 
-  entrega contínua de software de qualidade.
-</p>
-
----
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAREy4n&theme=transparent" 
-  />
-</p>
-
----
-
-<h2 align="center">Tecnologias</h2>
-
-<h3 align="center">Automação & DevOps</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=n8n,docker,linux" />
-</p>
-
-<h3 align="center">Banco de Dados</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
-</p>
-
-<h3 align="center">Linguagens de Programação</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,c" />
-</p>
-
----
-
-<h2 align="center">Conceitos e Práticas</h2>
-
-<p align="center">
-  ✔️ Automação de Workflows (n8n)<br/>
-  ✔️ Containerização e Orquestração (Docker)<br/>
-  ✔️ Integração de APIs e Webhooks<br/>
-  ✔️ Versionamento com Git
-</p>
-
----
-
-<h2 align="center">Contato</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yan-luiz-7b0499342/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rarey4n?igsh=MXptMjdtdTExMDI2" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:yanluiz426@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAREy4n&theme=transparent" align="right" width="400" />
+
+### Estudante de Ciência da Computação
+
+> Atualmente, estou no 5º período do curso de Ciência da Computação. Foco meus estudos e projetos em **automação de fluxos** e **virtualização**, buscando sempre otimizar processos e garantir ambientes de desenvolvimento escaláveis e isolados.
+
+Tenho experiência média na criação de workflows inteligentes e na containerização de aplicações, visando a eficiência operacional e a entrega contínua de software de qualidade.
+
+<img src="imagens/image1.jpg" align="right" width="250" />
+
+<br clear="right">
+
+<p align="center">
+  <strong>Tecnologias</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Estatísticas</strong>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAREy4n&show_icons=true&theme=dark" />
 </p>
