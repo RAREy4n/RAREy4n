@@ -15,7 +15,7 @@
 <table border="0">
   <tr>
     <td width="75%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAREy4n&theme=transparent" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4n&theme=transparent" width="100%" />
       <h3>Estudante de Ciência da Computação</h3>
       <blockquote>
         Atualmente, estou no 5º período do curso de Ciência da Computação. Foco meus estudos e projetos em <b>automação de fluxos</b> e <b>virtualização</b>, buscando sempre otimizar processos e garantir ambientes de desenvolvimento escaláveis e isolados.
