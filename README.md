@@ -15,7 +15,7 @@
 <table border="0">
   <tr>
     <td width="75%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4n&theme=transparent" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAREy4n&theme=transparent" width="100%" />
       <h3>Estudante de Ciência da Computação</h3>
       <blockquote>
         Atualmente, estou no 5º período do curso de Ciência da Computação. Foco meus estudos e projetos em <b>automação de fluxos</b> e <b>virtualização</b>, buscando sempre otimizar processos e garantir ambientes de desenvolvimento escaláveis e isolados.
@@ -52,5 +52,8 @@
   <strong>Estatísticas</strong>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y4n&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAREy4n&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAREy4n&theme=dark" />
 </p>
