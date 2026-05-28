@@ -52,7 +52,7 @@
   <strong>Estatísticas</strong>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAREy4n&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAREy4n&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAREy4n&theme=dark" />
