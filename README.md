@@ -45,10 +45,12 @@
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
 ---
+
 <p align="center">
   <strong>Estatísticas</strong>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAREy4n&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=y4n&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 </p>
